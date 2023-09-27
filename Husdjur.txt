@@ -1,0 +1,5 @@
+Hund , 2010
+Katt , 2008
+Orm , 2015
+Fågel , 2018
+Hamster , 2022
